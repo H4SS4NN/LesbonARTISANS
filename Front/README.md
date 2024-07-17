@@ -18,7 +18,7 @@ Ce projet constitue la partie front-end de l'application de gestion des produits
    git clone https://github.com/H4SS4NN/LesbonARTISANS.git
    cd lesbonARTISANS
    ```
-````
+
 
 2. Installez les dépendances
 
