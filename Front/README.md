@@ -65,11 +65,7 @@ Ce projet constitue la partie front-end de l'application de gestion des produits
 - **WebSocket** : La tentative d'implémentation de la communication en temps réel avec Socket.IO n'a pas été concluante.
 - **Authentification JWT** : La mise en œuvre de l'authentification via JWT n'a pas été réussie.
 
-Nous avons rencontré des difficultés techniques lors de la mise en place de ces fonctionnalités et avons décidé de revenir à une version stable sans ces bonus.
 
-## Conclusion
-
-Le front-end fournit une interface utilisateur pour la gestion des produits, permettant d'effectuer des opérations CRUD basiques. Bien que les fonctionnalités bonus n'aient pas été implémentées avec succès, l'application reste pleinement fonctionnelle.
 
 ```
 
