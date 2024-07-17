@@ -12,12 +12,16 @@ Ce projet constitue la partie front-end de l'application de gestion des produits
 - npm (ou yarn)
 
 ## Installation
+## Installation
+````
 
 1. Clonez le dépôt
+
    ```sh
-   git clone https://github.com/H4SS4NN/LesbonARTISANS.git
+    git clone https://github.com/H4SS4NN/LesbonARTISANS.git
    cd lesbonARTISANS
    ```
+
 
 
 
