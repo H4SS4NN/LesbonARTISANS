@@ -1,4 +1,3 @@
-Voici le README.md pour le front-end :
 
 ### README.md pour le Front-end
 
