@@ -23,21 +23,21 @@ Ce projet constitue la partie back-end de l'application de gestion des produits,
    ```
 
 2. Installez les dépendances
-3. 
+ 
    ```sh
    cd product-api
    npm install
    ```
 
-4. Configurez MongoDB
+3. Configurez MongoDB
    Assurez-vous que MongoDB est en cours d'exécution sur `mongodb://127.0.0.1:27017/productsdb`.
 
-5. Ajoutez les données initiales à la base de données
+4. Ajoutez les données initiales à la base de données
    ```sh
    node bddajout.js
    ```
 
-6. Démarrez le serveur
+5. Démarrez le serveur
    ```sh
    node index.js
    ```
