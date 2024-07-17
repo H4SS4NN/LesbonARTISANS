@@ -29,12 +29,12 @@ Ce projet constitue la partie front-end de l'application de gestion des produits
 
 3. Démarrez le serveur de développement
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## Utilisation
 
-1. Accédez à `http://localhost:5173` dans votre navigateur.
+1. Accédez à `http://localhost:5173` dans votre navigateur ou regarder dans le terminal de commande le lien fourni (l'adresse).
 
 ## Fonctionnalités
 
