@@ -11,7 +11,7 @@ Ce projet constitue la partie front-end de l'application de gestion des produits
 - Node.js
 - npm (ou yarn)
 
-## Installation
+
 ## Installation
 ````
 
